@@ -1,0 +1,22 @@
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ProductsData\bin\Debug\ProductsData.dll.config
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ProductsData\bin\Debug\ProductsData.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ProductsData\bin\Debug\ProductsData.pdb
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ProductsData\bin\Debug\EntityFramework.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ProductsData\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ProductsData\bin\Debug\EntityFramework.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ProductsData\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ProductsData\obj\Debug\ProductsData.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ProductsData\obj\Debug\ProductsData.pdb
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ProductsData\obj\Debug\ProductsData.csprojResolveAssemblyReference.cache
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\bin\Debug\ProductsData.dll.config
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\bin\Debug\ProductsData.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\bin\Debug\ProductsData.pdb
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\bin\Debug\EntityFramework.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\bin\Debug\EntityFramework.SqlServer.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\bin\Debug\EntityFramework.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\bin\Debug\EntityFramework.SqlServer.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\obj\Debug\ProductsData.csprojAssemblyReference.cache
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\obj\Debug\ProductsData.csproj.CoreCompileInputs.cache
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\obj\Debug\ProductsData.csproj.CopyComplete
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\obj\Debug\ProductsData.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\ProductsData\obj\Debug\ProductsData.pdb

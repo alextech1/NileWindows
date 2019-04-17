@@ -1,0 +1,23 @@
+﻿﻿@model Nile.Mvc.Models.CustomerModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete Confirmation</h2>
+
+<p>
+    Are you sure you want to delete the customer
+    <strong>@Model.FullName</strong>?
+</p>
+
+@using (Html.BeginForm())
+{
+    <p>
+        <input type="submit" value="Delete" />
+    </p>
+    <p>
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+
+}

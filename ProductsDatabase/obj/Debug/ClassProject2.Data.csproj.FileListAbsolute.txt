@@ -1,0 +1,69 @@
+H:\C# Programming\ClassProject2_1121\ClassProject2.Data\obj\Debug\ClassProject2.Data.csprojResolveAssemblyReference.cache
+H:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll.config
+H:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll
+H:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\ClassProject2.Data.pdb
+H:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.dll
+H:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.dll
+H:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.xml
+H:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.xml
+H:\C# Programming\ClassProject2_1121\ClassProject2.Data\obj\Debug\ClassProject2.Data.dll
+H:\C# Programming\ClassProject2_1121\ClassProject2.Data\obj\Debug\ClassProject2.Data.pdb
+E:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll.config
+E:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll
+E:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\ClassProject2.Data.pdb
+E:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.dll
+E:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.xml
+E:\C# Programming\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Programming\ClassProject2_1121\ClassProject2.Data\obj\Debug\ClassProject2.Data.csprojResolveAssemblyReference.cache
+E:\C# Programming\ClassProject2_1121\ClassProject2.Data\obj\Debug\ClassProject2.Data.dll
+E:\C# Programming\ClassProject2_1121\ClassProject2.Data\obj\Debug\ClassProject2.Data.pdb
+E:\C# Programming\Project Lab 4\ClassProject2_1121\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll.config
+E:\C# Programming\Project Lab 4\ClassProject2_1121\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\ClassProject2.Data\bin\Debug\ClassProject2.Data.pdb
+E:\C# Programming\Project Lab 4\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\ClassProject2.Data\obj\Debug\ClassProject2.Data.csprojResolveAssemblyReference.cache
+E:\C# Programming\Project Lab 4\ClassProject2_1121\ClassProject2.Data\obj\Debug\ClassProject2.Data.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\ClassProject2.Data\obj\Debug\ClassProject2.Data.pdb
+E:\C# Programming\Project Lab 4\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll.config
+E:\C# Programming\Project Lab 4\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll
+E:\C# Programming\Project Lab 4\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.pdb
+E:\C# Programming\Project Lab 4\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.dll
+E:\C# Programming\Project Lab 4\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Programming\Project Lab 4\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.xml
+E:\C# Programming\Project Lab 4\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Programming\Project Lab 4\NileWindows\ClassProject2.Data\obj\Debug\ClassProject2.Data.csprojResolveAssemblyReference.cache
+E:\C# Programming\Project Lab 4\NileWindows\ClassProject2.Data\obj\Debug\ClassProject2.Data.dll
+E:\C# Programming\Project Lab 4\NileWindows\ClassProject2.Data\obj\Debug\ClassProject2.Data.pdb
+C:\Devs\GF\155621\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll.config
+C:\Devs\GF\155621\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll
+C:\Devs\GF\155621\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.pdb
+C:\Devs\GF\155621\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.dll
+C:\Devs\GF\155621\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Devs\GF\155621\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.xml
+C:\Devs\GF\155621\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Devs\GF\155621\NileWindows\ClassProject2.Data\obj\Debug\ClassProject2.Data.csprojResolveAssemblyReference.cache
+C:\Devs\GF\155621\NileWindows\ClassProject2.Data\obj\Debug\ClassProject2.Data.dll
+C:\Devs\GF\155621\NileWindows\ClassProject2.Data\obj\Debug\ClassProject2.Data.pdb
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll.config
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.pdb
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.dll
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.xml
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\ClassProject2.Data\obj\Debug\ClassProject2.Data.csprojResolveAssemblyReference.cache
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\ClassProject2.Data\obj\Debug\ClassProject2.Data.dll
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\ClassProject2.Data\obj\Debug\ClassProject2.Data.pdb
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll.config
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ClassProject2.Data\bin\Debug\ClassProject2.Data.pdb
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ClassProject2.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ClassProject2.Data\obj\Debug\ClassProject2.Data.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\ClassProject2.Data\obj\Debug\ClassProject2.Data.pdb

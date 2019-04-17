@@ -1,0 +1,309 @@
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\ApplicationInsights.config
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\csc.exe
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\System.Collections.Immutable.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\vbc.exe
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\VBCSCompiler.exe
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\roslyn\VBCSCompiler.exe.config
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Nile.Mvc.dll.config
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Nile.Mvc.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Nile.Mvc.pdb
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Antlr3.Runtime.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\ClassProject2.Data.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.AI.Web.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.AI.WindowsServer.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.ApplicationInsights.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.Web.Infrastructure.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Newtonsoft.Json.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.Helpers.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.Mvc.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.Optimization.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.Razor.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.WebPages.Deployment.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.WebPages.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.WebPages.Razor.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\WebGrease.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\EntityFramework.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\ClassProject2.Data.pdb
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.AI.Web.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.AI.WindowsServer.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.ApplicationInsights.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.Helpers.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.Mvc.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.Optimization.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.Razor.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.WebPages.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.WebPages.Deployment.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\System.Web.WebPages.Razor.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Antlr3.Runtime.pdb
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\Newtonsoft.Json.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\bin\EntityFramework.xml
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\obj\Debug\Nile.Mvc.csprojResolveAssemblyReference.cache
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\obj\Debug\Nile.Mvc.dll
+E:\C# Programming\Project Lab 4\ClassProject2_1121\Nile.Mvc\obj\Debug\Nile.Mvc.pdb
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\ApplicationInsights.config
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\csc.exe
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\System.Collections.Immutable.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\vbc.exe
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\VBCSCompiler.exe
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\roslyn\VBCSCompiler.exe.config
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Nile.Mvc.dll.config
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Nile.Mvc.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Nile.Mvc.pdb
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Antlr3.Runtime.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\ClassProject2.Data.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.AI.Web.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.AI.WindowsServer.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.ApplicationInsights.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.Web.Infrastructure.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Newtonsoft.Json.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.Helpers.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.Mvc.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.Optimization.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.Razor.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Deployment.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.WebPages.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Razor.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\WebGrease.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\EntityFramework.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\ClassProject2.Data.pdb
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.AI.Web.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.AI.WindowsServer.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.ApplicationInsights.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.Helpers.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.Mvc.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.Optimization.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.Razor.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.WebPages.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Deployment.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Razor.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Antlr3.Runtime.pdb
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\Newtonsoft.Json.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\bin\EntityFramework.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.csprojResolveAssemblyReference.cache
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.pdb
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\ApplicationInsights.config
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\csc.exe
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\vbc.exe
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\VBCSCompiler.exe
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Nile.Mvc.dll.config
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Nile.Mvc.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Nile.Mvc.pdb
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Antlr3.Runtime.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\ClassProject2.Data.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.AI.Web.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.ApplicationInsights.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Newtonsoft.Json.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.Helpers.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.Mvc.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.Optimization.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.Razor.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.WebPages.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\WebGrease.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\ClassProject2.Data.pdb
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.AI.Web.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.ApplicationInsights.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.Helpers.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.Mvc.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.Optimization.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.Razor.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.WebPages.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Antlr3.Runtime.pdb
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Newtonsoft.Json.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\EntityFramework.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.csprojResolveAssemblyReference.cache
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.pdb
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Autofac.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Autofac.Integration.Mvc.dll
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Autofac.xml
+C:\Devs\GF\155621\NileWindows\Nile.Mvc\bin\Autofac.Integration.Mvc.xml
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.csprojResolveAssemblyReference.cache
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.csprojResolveAssemblyReference.cache
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\ApplicationInsights.config
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\csc.exe
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\System.Collections.Immutable.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\vbc.exe
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\VBCSCompiler.exe
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\roslyn\VBCSCompiler.exe.config
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Nile.Mvc.dll.config
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Nile.Mvc.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Nile.Mvc.pdb
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Antlr3.Runtime.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Autofac.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Autofac.Integration.Mvc.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\ClassProject2.Data.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\EntityFramework.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\EntityFramework.SqlServer.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.AI.Web.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.AI.WindowsServer.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.ApplicationInsights.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.Web.Infrastructure.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Newtonsoft.Json.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\ProductsData.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.Helpers.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.Mvc.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.Optimization.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.Razor.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Deployment.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.WebPages.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Razor.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\WebGrease.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\ClassProject2.Data.pdb
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\ProductsData.pdb
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Autofac.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Autofac.Integration.Mvc.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\EntityFramework.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\EntityFramework.SqlServer.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.AI.Web.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.AI.WindowsServer.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.ApplicationInsights.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.Helpers.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.Mvc.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.Optimization.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.Razor.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.WebPages.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Deployment.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Razor.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Antlr3.Runtime.pdb
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\bin\Newtonsoft.Json.xml
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.pdb
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\ApplicationInsights.config
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\csc.exe
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\System.Collections.Immutable.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\vbc.exe
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\VBCSCompiler.exe
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\roslyn\VBCSCompiler.exe.config
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Nile.Mvc.dll.config
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Nile.Mvc.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Nile.Mvc.pdb
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Antlr3.Runtime.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Autofac.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Autofac.Integration.Mvc.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\ClassProject2.Data.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\EntityFramework.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\EntityFramework.SqlServer.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.AI.Web.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.AI.WindowsServer.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.ApplicationInsights.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.Web.Infrastructure.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Newtonsoft.Json.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\ProductsData.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.Helpers.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.Mvc.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.Optimization.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.Razor.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Deployment.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.WebPages.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Razor.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\WebGrease.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\ClassProject2.Data.pdb
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\ClassProject2.Data.dll.config
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\ProductsData.pdb
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\ProductsData.dll.config
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Autofac.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Autofac.Integration.Mvc.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\EntityFramework.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\EntityFramework.SqlServer.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.AI.Web.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.AI.WindowsServer.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.ApplicationInsights.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.Helpers.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.Mvc.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.Optimization.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.Razor.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.WebPages.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Deployment.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\System.Web.WebPages.Razor.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Antlr3.Runtime.pdb
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\bin\Newtonsoft.Json.xml
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.csprojAssemblyReference.cache
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.csproj.CoreCompileInputs.cache
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.csproj.CopyComplete
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.dll
+F:\C# Programming\Working Projects\NileWindowsMVC\NileWindows\Nile.Mvc\obj\Debug\Nile.Mvc.pdb

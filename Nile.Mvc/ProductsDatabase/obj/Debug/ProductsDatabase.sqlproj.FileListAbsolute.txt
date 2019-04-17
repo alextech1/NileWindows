@@ -1,0 +1,23 @@
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\ProductsDatabase\bin\Debug\ProductsDatabase.dacpac
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\ProductsDatabase\bin\Debug\ProductsDatabase.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\ProductsDatabase\bin\Debug\ProductsDatabase.pdb
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\Model.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\refactor.xml
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\postdeploy.sql
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\predeploy.sql
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\ProductsDatabase.dll
+E:\C# Programming\Project Lab 4\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\ProductsDatabase.pdb
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\Nile.Mvc\ProductsDatabase\bin\Debug\ProductsDatabase.dacpac
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\Nile.Mvc\ProductsDatabase\bin\Debug\ProductsDatabase.dll
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\Nile.Mvc\ProductsDatabase\bin\Debug\ProductsDatabase.pdb
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\Model.xml
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\refactor.xml
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\postdeploy.sql
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\predeploy.sql
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\ProductsDatabase.dll
+E:\C# Programming\Project Lab 4\155621, completed\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\ProductsDatabase.pdb
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\ProductsDatabase\bin\Debug\ProductsDatabase.dacpac
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\ProductsDatabase\bin\Debug\ProductsDatabase.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\ProductsDatabase\bin\Debug\ProductsDatabase.pdb
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\ProductsDatabase.dll
+E:\C# Programming\Project Lab 4\FixNileWindows\NileWindows\Nile.Mvc\ProductsDatabase\obj\Debug\ProductsDatabase.pdb

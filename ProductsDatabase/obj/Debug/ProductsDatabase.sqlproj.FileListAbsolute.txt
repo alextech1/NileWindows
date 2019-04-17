@@ -1,0 +1,14 @@
+H:\C# Programming\ClassProject2_1121\ProductsDatabase\bin\Debug\ProductsDatabase.dacpac
+H:\C# Programming\ClassProject2_1121\ProductsDatabase\bin\Debug\ProductsDatabase.dll
+H:\C# Programming\ClassProject2_1121\ProductsDatabase\bin\Debug\ProductsDatabase.pdb
+H:\C# Programming\ClassProject2_1121\ProductsDatabase\obj\Debug\Model.xml
+H:\C# Programming\ClassProject2_1121\ProductsDatabase\obj\Debug\refactor.xml
+H:\C# Programming\ClassProject2_1121\ProductsDatabase\obj\Debug\postdeploy.sql
+H:\C# Programming\ClassProject2_1121\ProductsDatabase\obj\Debug\predeploy.sql
+H:\C# Programming\ClassProject2_1121\ProductsDatabase\obj\Debug\ProductsDatabase.dll
+H:\C# Programming\ClassProject2_1121\ProductsDatabase\obj\Debug\ProductsDatabase.pdb
+E:\C# Programming\ClassProject2_1121\ProductsDatabase\bin\Debug\ProductsDatabase.dacpac
+E:\C# Programming\ClassProject2_1121\ProductsDatabase\bin\Debug\ProductsDatabase.dll
+E:\C# Programming\ClassProject2_1121\ProductsDatabase\bin\Debug\ProductsDatabase.pdb
+E:\C# Programming\ClassProject2_1121\ProductsDatabase\obj\Debug\ProductsDatabase.dll
+E:\C# Programming\ClassProject2_1121\ProductsDatabase\obj\Debug\ProductsDatabase.pdb
